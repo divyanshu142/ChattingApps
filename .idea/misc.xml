@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/drawable/buttonborder.xml" value="0.1855" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/drawable/degisn2.xml" value="0.14" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/drawable/receverdrawable.xml" value="0.134" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/drawable/senderdrawable.xml" value="0.134" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/activity_chat.xml" value="0.16485507246376813" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/activity_login.xml" value="0.12" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/activity_main.xml" value="0.11" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/activity_otp.xml" value="0.12431693989071038" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/activity_profile_activty.xml" value="0.16485507246376813" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/activity_signup.xml" value="0.16259057971014493" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/chat_user_layout.xml" value="0.16485507246376813" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/fragment_call.xml" value="0.16485507246376813" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/fragment_chat.xml" value="0.16485507246376813" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/fragment_status.xml" value="0.16485507246376813" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/receverlayout.xml" value="0.2" />
+        <entry key="..\:/ANROID PROJECT/app/src/main/res/layout/senderlayout.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
