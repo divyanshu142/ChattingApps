@@ -10,7 +10,7 @@
 https://user-images.githubusercontent.com/66571532/203403962-f08c6484-f94d-42f3-88c5-e6393cad935f.mp4
 
 # Used Libraries/ Features/ Database😊
- 1firebase
+ 1 Firebase
  
  2 Signup/Login Flow
  
